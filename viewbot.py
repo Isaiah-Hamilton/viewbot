@@ -2,18 +2,18 @@ from selenium import webdriver
 from random import randrange
 import time
 
-url = ""
+url = "YOUTUBE URL"
 
 refresh_time = 10
 browser_list = []
 
 
 #there is 5 browsers
-b1 = webdriver.Chrome("C:\\Users\\Itsis\\chromedriver")
-b2 = webdriver.Chrome("C:\\Users\\Itsis\\chromedriver")
-b3 = webdriver.Chrome("C:\\Users\\Itsis\\chromedriver")
-b4 = webdriver.Chrome("C:\\Users\\Itsis\\chromedriver")
-b5 = webdriver.Chrome("C:\\Users\\Itsis\\chromedriver")
+b1 = webdriver.Chrome("THE LOCATION OF CHROMEDRIVER")
+b2 = webdriver.Chrome("THE LOCATION OF CHROMEDRIVER")
+b3 = webdriver.Chrome("THE LOCATION OF CHROMEDRIVER")
+b4 = webdriver.Chrome("THE LOCATION OF CHROMEDRIVER")
+b5 = webdriver.Chrome("THE LOCATION OF CHROMEDRIVER")
 
 #there is 5 text
 browser_list.append(b1)
