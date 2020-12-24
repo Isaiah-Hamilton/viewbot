@@ -12,8 +12,8 @@ Second: pip install selenium
 Three: pip install randrange                                                                                                 
 Four: pip inastall webdriver                                                                                                         
 Five: pip install time                                                                                                               
-Six:  Put your video url in url = "".
-Seven: Put the location of the chromedriver in b1 = webdriver.Chrome("THE LOCATION OF CHROMEDRIVER") thourgh b5.                                                                   
+Six:  Put your video url in url = "".                                                                                                                                               
+Seven: Put the location of the chromedriver in b1 = webdriver.Chrome("THE LOCATION OF CHROMEDRIVER") thourgh b5.
 finally: Run the code.
 
 
