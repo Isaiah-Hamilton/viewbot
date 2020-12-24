@@ -7,12 +7,14 @@ There are risks of using this viewbot and any other viewbot. When using a viewbo
 
 
 # how to use
-Frist: pip install selenium                                                                                      
-second: pip install randrange                                                                                                 
-Three: pip inastall webdriver                                                                                                                  
-four: pip install time                                                                                                                                
-five:  put your video url in url = ""
-finally: run the code
+Frist: Go to ("https://sites.google.com/a/chromium.org/chromedriver/downloads") and download the versoin of chrome you use in the same folder.           
+Second: pip install selenium                                                                                      
+Three: pip install randrange                                                                                                 
+Four: pip inastall webdriver                                                                                                         
+Five: pip install time                                                                                                               
+Six:  Put your video url in url = "".
+Seven: Put the location of the chromedriver in b1 = webdriver.Chrome("THE LOCATION OF CHROMEDRIVER") thourgh b5.
+finally: Run the code.
 
 
 # I did not make this to use, this was just a fun project.
