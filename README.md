@@ -2,11 +2,11 @@
 A viewbot of YouTube.
 
 
-# The risk of a viewbot
+# The Risk of a Viewbot
 There are risks of using this viewbot and any other viewbot. When using a viewbot and getting caught because of excessive usage or suspicion, you may lose your views or your channel will go under scrutiny for months (you won’t be able to access your channel until the scrutiny ends). als o the video can be removed.
 
 
-# how to use
+# How To Use
 Frist: Go to ("https://sites.google.com/a/chromium.org/chromedriver/downloads") and download the versoin of chrome you use in the same folder.           
 Second: pip install selenium                                                                                      
 Three: pip install randrange                                                                                                 
