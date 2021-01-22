@@ -1,5 +1,5 @@
 # viewbot
-A viewbot of YouTube.
+A viewbot for YouTube.
 
 
 # The Risk of a Viewbot
