@@ -17,4 +17,4 @@ Seven: Put the location of the chromedriver in b1 = webdriver.Chrome("THE LOCATI
 finally: Run the code.
 
 
-# I did not make this to use, this was just a fun project.
+## I did not make this to use, this was just a fun project.
