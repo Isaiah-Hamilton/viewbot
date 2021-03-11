@@ -1,3 +1,4 @@
+# Made by Isaiah Hamilton 3-6-2021
 from selenium import webdriver
 from random import randrange
 import time
@@ -27,4 +28,3 @@ while(True):
     browser_list[browser_num].refresh()
     print("browser number ", browser_num, "has been refreshed")
     time.sleep(refresh_time)
-    
