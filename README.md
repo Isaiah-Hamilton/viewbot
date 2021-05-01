@@ -82,8 +82,6 @@ This project has no License on this project.
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
 ## I did not make this to use, this was just a fun project and may be against YouTube's rules and policies.
 
