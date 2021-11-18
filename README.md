@@ -1,5 +1,5 @@
 # viewbot
-A viewbot for YouTube that watches the video at random and gets you views.
+A viewbot for YouTube that watches your video at random and gets you views.
 
 
 # The Risk of a Viewbot
@@ -7,7 +7,7 @@ There are risks of using this viewbot and any other viewbot. When using a viewbo
 
 ### Prerequisites
 
-What things you need to install for the software. Vist [ChromeDriver](##ChromDriver) if you don't know how to install your version of chromeDriver.
+What things you need to install for the viewbot. Vist [ChromeDriver](##ChromDriver) if you don't know how to install your version of chromeDriver.
 
 ```
 Chrome
@@ -23,7 +23,7 @@ Lastest version of python
 
 ### Installing
 
-In your termanil copy and past these comands one at a time
+In your terminal copy and past these comands one at a time
 
 
 ```
@@ -31,22 +31,14 @@ pip install selenium
 ```
 
 ```
-pip insatll randrange
-```
-
-```
 webdriver
-```
-
-```
-time
 ```
 
 # How To Run                 
 
 - step by step on how to run
    - get the video URL [example](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-   - past video URl into URL in
+   - past video url into URL in
       ```
       URL = "Past Here"
       ```
@@ -62,11 +54,7 @@ To download chrome driver go to https://sites.google.com/a/chromium.org/chromedr
 
 ## Contributing
 
-There is no need to Contribute but if you have any problems then you can create an [issues](https://github.com/Isaiah-Hamilton/viewbot/issues)
-
-## Versioning
-
-We use [.whitesource](https://github.com/Isaiah-Hamilton/viewbot/blob/main/.whitesource) for versioning.
+If you have any problems then you can create an [issues](https://github.com/Isaiah-Hamilton/viewbot/issues)
 
 ## Contributors
 
@@ -77,7 +65,7 @@ We use [.whitesource](https://github.com/Isaiah-Hamilton/viewbot/blob/main/.whit
 
 ## License
 
-This project has no License on this project.
+This project has no Licenses.
 
 ## Acknowledgments
 
